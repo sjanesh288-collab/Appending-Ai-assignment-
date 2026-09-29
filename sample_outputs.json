@@ -1,0 +1,16 @@
+{
+  "query": "What is Agentic AI?",
+  "final_answer": "...answer based only on the eBook...",
+  "retrieved_context_chunks": [
+    "...relevant text from the eBook..."
+  ],
+  "confidence_score": 0.92
+}
+
+
+{
+  "query": "What is the capital of France?",
+  "final_answer": "I couldn't find this information in the Agentic AI eBook, so I can't answer that.",
+  "retrieved_context_chunks": [],
+  "confidence_score": 0.0
+}
